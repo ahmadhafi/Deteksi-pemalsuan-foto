@@ -1,0 +1,2 @@
+# Deteksi-pemalsuan-foto
+Program ini ditujukan untuk mendeteksi adanya pengeditan foto yang dilakukan menggunakan software photo editing, dengan menggunakan algoritma machine learning dan Deep Learning, mendeteksi dengan mendeteksi adanya kompresi pada foto yang di upload, tentu setiap foto yang sudah tersentuh dengan software editing foto seperti Photoshop dll, akan mengalami perubahan pixel yang mungkin tidak bisa dibedakan dengan mata manusia, tetapi dengan menggunakan program ini, kita bisa mengetahui perubahan pixel yang terjadi didalam foto
